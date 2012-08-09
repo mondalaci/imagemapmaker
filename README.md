@@ -1,8 +1,7 @@
 Imagemapmaker
 =============
 
-Imagemapmaker creates XHTML image maps out of a set of image files
-contained in the given direcories.
+Imagemapmaker creates XHTML image maps out of a set of image files.
 
 ![](imagemapmaker/raw/master/screenshot.png)
 
@@ -12,7 +11,7 @@ This process involves two steps:
 - Generate the XHTML document which features the image maps
   and references the source images.
 
-Don't forget to invoke `./imagemapmaker -h` instead of crying for help.
+Don't forget to invoke `./imagemapmaker -h` when in need of help.
 
 Installation
 ------------
