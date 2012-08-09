@@ -11,7 +11,9 @@ This process involves two steps:
 - Generate the XHTML document which features the image maps
   and references the source images.
 
-Don't forget to invoke `./imagemapmaker -h` when in need of help.
+Don't forget to invoke `./imagemapmaker -h` when in need of
+[help](imagemapmaker/raw/master/Application.cpp#L64).
+
 
 Installation
 ------------
