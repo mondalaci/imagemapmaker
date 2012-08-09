@@ -4,6 +4,8 @@ Imagemapmaker
 Imagemapmaker creates XHTML image maps out of a set of image files
 contained in the given direcories.
 
+![](imagemapmaker/raw/master/screenshot.png)
+
 This process involves two steps:
 
 - Create the image map images based on the original images.
