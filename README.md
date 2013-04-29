@@ -12,7 +12,7 @@ This process involves two steps:
   and references the source images.
 
 Don't forget to invoke `./imagemapmaker -h` when in need of
-[help](/mondalaci/imagemapmaker/blob/master/Application.cpp#L64).
+[help](Application.cpp#L64).
 
 
 Installation
