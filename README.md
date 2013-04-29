@@ -3,7 +3,7 @@ Imagemapmaker
 
 Imagemapmaker creates XHTML image maps out of a set of image files.
 
-![](/mondalaci/imagemapmaker/raw/master/screenshot.png)
+![screenshot](screenshot.png)
 
 This process involves two steps:
 
